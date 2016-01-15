@@ -1,5 +1,5 @@
 {
-    "name": "deree-bootstrap-workshop",
+    "name": "bootstrap-workshop",
     "dependencies": {
         "bootstrap": "3.3.5"
     }

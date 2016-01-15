@@ -1,6 +1,6 @@
-# Bootstrap workshop at Deree College
+# Fast and simple workshop on web development
 
-Starting code to help students get started at the Bootstrap workshop at Deree College.
+Starting code to help students get started with web development using Bootstrap.
 
 ## Concept
 
@@ -8,7 +8,7 @@ In this workshop we assume that we are a freelancer web developer that would lik
 
 ## Getting started
 
-Start working instantly based on this code by visiting https://www.sourcelair.com/blueprints/paris/deree-bootstrap-workshop and clicking on **Create project** or **Sign up**, in case you do not have a SourceLair account.
+Start working instantly based on this code by visiting http://lair.io/paris/bootstrap-workshop and clicking on **Create project** or **Sign up**, in case you do not have a SourceLair account.
 
 ## Flow
 
